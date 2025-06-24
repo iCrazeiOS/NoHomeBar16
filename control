@@ -1,8 +1,8 @@
 Package: com.icraze.nohomebar16
 Name: NoHomeBar16
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Remove the home bar on iOS 15/16
 Maintainer: iCraze
 Author: iCraze
 Section: Tweaks
